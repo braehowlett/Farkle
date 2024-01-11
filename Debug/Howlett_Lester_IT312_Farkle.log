@@ -1,0 +1,3 @@
+﻿  Howlett_Lester_IT312_Farkle.cpp
+C:\Users\Brae\source\repos\Howlett_Lester_IT312_Farkle\Howlett_Lester_IT312_Farkle\Howlett_Lester_IT312_Farkle.cpp(440,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Howlett_Lester_IT312_Farkle.vcxproj -> C:\Users\Brae\source\repos\Howlett_Lester_IT312_Farkle\Debug\Howlett_Lester_IT312_Farkle.exe
